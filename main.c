@@ -1,11 +1,7 @@
 #include <stdio.h>
 
-int test1(){
+int testfunc(){
 
-}
-
-// new test function
-int test(){
 
 }
 
