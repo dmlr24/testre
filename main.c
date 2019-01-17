@@ -1,8 +1,5 @@
 #include <stdio.h>
 
-int testfunc(){
-int test;
-}
 
 int main(){
 
